@@ -1,0 +1,3 @@
+name = "Aasritha"
+print("Hello", name)
+print("I am learning Python with GitHub!")
